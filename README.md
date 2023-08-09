@@ -1,7 +1,7 @@
 # Calculadora-ambiente-JS
 ![image](https://github.com/Zhea606/Calculadora-ambiente-JS/assets/69162988/b011ed9f-d852-4999-bbb1-3e3093b915a1)
 
-#### This is a project made with [José Bocci](https://github.com/Jose-Bocci) to calculate our **carbon footprint**, and to know how **sustainable our home** is, for Municipalidad de Ciudad, Mendoza, Argentina
+#### This is a project made with [José Bocci](https://github.com/Jose-Bocci) to calculate our **_carbon footprint_**, and to know how **_sustainable our home_** is, for Municipalidad de Ciudad, Mendoza, Argentina
 We use for this website:
 - Javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - React JS ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
