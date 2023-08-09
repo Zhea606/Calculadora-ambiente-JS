@@ -11,7 +11,7 @@ We use for this website:
 - Sass ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 - Figma for initial mockup ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - Axios
-- 
+  
 We made it responsive to mobile version  📱
 
 You can see it here --> https://ambientecalc.ciudaddemendoza.gov.ar/calculadora/HuellaCarbono
